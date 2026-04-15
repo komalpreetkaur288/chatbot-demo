@@ -1,2 +1,8 @@
+# Flask - web framework to run the chatbot server
 flask
-requests
+
+# groq - to use Groq AI API (free, uses Llama 3 model)
+groq
+
+# python-dotenv - to load environment variables from .env file
+python-dotenv
