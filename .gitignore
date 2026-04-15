@@ -1,0 +1,22 @@
+# ── Environment Variables (contains API keys - never share this) ──
+.env
+
+# ── Python Cache Files ────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ── Virtual Environment ───────────────────────────────────────────
+venv/
+env/
+.venv/
+
+# ── IDE / Editor Files ────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ── OS Generated Files ────────────────────────────────────────────
+.DS_Store
+Thumbs.db
